@@ -2,6 +2,12 @@
 
 ## Student at NIT Agartala!
 
+🔭 I’m currently working on Web Development
+🌱 I’m currently learning Machine Learning
+🤔 I’m looking for
+💬 Ask me about Data structures, CS core subjects
+📫 How to reach me: Email - gjskoushik@gmail.com
+
 ### Connect with me:
 
 [<img align="left" alt="gjskoushik | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
