@@ -3,11 +3,11 @@
 ## Student at NIT Agartala!
 
 😊 I’m currently working on Web Development "\a"
+🎶 I’m currently learning Machine Learning "\a"
+👀 I’m looking forward to get a job "\a"
+💬 Ask me about Data structures, CS core subjects "\a"
+📫 How to reach me: Email - gjskoushik@gmail.com "\a"
 
-🎶 I’m currently learning Machine Learning
-👀 I’m looking forward to get a job
-💬 Ask me about Data structures, CS core subjects
-📫 How to reach me: Email - gjskoushik@gmail.com
 
 ### Connect with me:
 
