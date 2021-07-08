@@ -2,12 +2,15 @@
 
 ## Student at NIT Agartala!
 
-💻 I’m currently working on Web Development \a
+💻 I’m currently working on Web Development 
 
--🎰 I’m currently learning Machine Learning
--👀 I’m looking forward to get a job 
--👥 Ask me about Data structures, CS core subjects 
--📫 How to reach me: Email - gjskoushik@gmail.com 
+🎰 I’m currently learning Machine Learning
+
+👀 I’m looking forward to get a job 
+
+👥 Ask me about Data structures, CS core subjects 
+
+📫 How to reach me: Email - gjskoushik@gmail.com 
 
 
 ### Connect with me:
