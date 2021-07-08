@@ -5,6 +5,7 @@
 ### Connect with me:
 
 [<img align="left" alt="gjskoushik | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="gjskoushik | Geeksforgeeks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />][geeksforgeeks]
 [<img align="left" alt="gjskoushik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="gjskoushik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="gjskoushik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -31,6 +32,7 @@
 [twitter]: https://twitter.com/Koushikchowdha2
 [instagram]: https://www.instagram.com/gj._.k_o_u_s_h_i_k/
 [facebook]: https://www.facebook.com/profile.php?id=100006850877712
+[geeksforgeeks]: https://auth.geeksforgeeks.org/user/gjskoushik/practice/
 [linkedin]: https://www.linkedin.com/in/garapati-jaya-surya-koushik-772073204/
 [vscode]: https://code.visualstudio.com/
 [html5]: https://www.w3schools.com/html/
