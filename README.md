@@ -2,7 +2,8 @@
 
 ## Student at NIT Agartala!
 
-😊 I’m currently working on Web Development
+😊 I’m currently working on Web Development "\a"
+
 🎶 I’m currently learning Machine Learning
 👀 I’m looking forward to get a job
 💬 Ask me about Data structures, CS core subjects
