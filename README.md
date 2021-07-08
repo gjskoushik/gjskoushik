@@ -1,6 +1,6 @@
 ### Hi there, I'm Koushik Garapati👋
 
-## I'm a Student and Developer!
+## Student at NIT Agartala!
 
 ### Connect with me:
 
@@ -22,6 +22,12 @@
 
 <br />
 <br />
+
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+
 
 </details>
 
