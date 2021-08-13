@@ -2,8 +2,6 @@
 
 ## Student at NIT Agartala!
 
-💻 I’m currently working on Web Development 
-
 🎰 I’m currently learning Machine Learning
 
 👀 I’m looking forward to get a job 
